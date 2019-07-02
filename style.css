@@ -1,0 +1,309 @@
+
+
+body{
+
+max-height: 700px;
+
+}
+
+
+.nav-google {
+
+
+width: 38%;
+
+height: 20%;
+
+display: flex;
+
+justify-content: flex-end;
+
+position: relative;
+
+left : 60%;
+
+
+}
+
+
+
+.nav-google ul{
+
+height: 80px;
+
+width : 150px;
+
+display: flex;
+
+flex-flow: row wrap;
+
+justify-content: space-around;
+
+list-style-type: none;
+
+position: relative;
+
+left: -12%;
+
+
+
+
+}
+
+
+.login{
+
+height: 35px;
+
+width: 110px;
+margin-top: 30px;
+background: #0066CC;
+}
+
+
+
+.gg{
+
+text-decoration: none;
+
+font-color : black;
+
+opacity: 95%;
+}
+
+
+
+
+.im{
+
+text-decoration: none;
+
+
+}
+
+
+.im-color{
+
+font-color : black;
+
+opacity: 95%;
+}
+
+
+.grid-img{
+
+object-fit: contain;
+
+position: absolute;
+
+left: 73.5%;
+
+top : 33%;
+
+
+}
+
+
+.google{
+
+width: 100%;
+
+height: 80%;
+
+display: flex;
+
+flex-direction: row;
+
+justify-content: center;
+
+position: absolute;
+
+top : 160px;
+
+
+
+
+
+}
+
+.google img{
+
+object-fit: contain;
+
+height: 130px;
+
+}
+
+
+.INPUTGOOGLE{
+
+position: absolute;
+
+top : 480px;
+
+height: 50px;
+
+width: 100%;
+
+
+display: flex;
+
+justify-content: center;
+
+align-content: flex-start;
+
+
+
+}
+
+
+
+.searchbar-container{
+
+
+height: 60px;
+
+width: 550px;
+
+
+}
+
+
+
+
+.search{
+
+height: 100%;
+
+width: 35%;
+
+
+
+border-radius: 30px;
+
+position: absolute;
+
+top : 19%;
+
+
+
+margin-left: 8px;
+
+
+}
+
+.inputgoogle{
+
+height: 100%;
+
+width: 100%;
+
+
+border-radius: 30px;
+
+}
+
+
+#search{
+position: relative;
+top : 20%;
+}
+
+
+.mic{
+
+width: 100%;
+
+height: 50%;
+
+
+
+position: relative;
+
+top : -80%;
+
+left : -1.5%;
+
+display: flex;
+
+justify-content: flex-end;
+
+
+}
+
+
+.buttons-container{
+
+position: absolute;
+
+top : 105px;
+
+left : 0px;
+
+width: 100%;
+
+height: 50px;
+
+display: flex;
+
+justify-content: center;
+
+
+}
+
+
+
+.buttons{
+
+height: 100%;
+width: 16.5%;
+
+display: flex;
+
+justify-content: space-between;
+
+opacity: 0.95;
+
+}
+
+
+
+.footer-container1{
+
+background : rgba(0,0,0,.14);
+
+position: absolute;
+
+left : -1%;
+
+top : 500%;
+
+height: 40px;
+
+width: 100%;
+
+border-bottom:solid black 0.08px;
+
+
+
+
+}
+
+
+.footer-container2{
+background : rgba(0,0,0,.14);
+
+position: absolute;
+
+left : -1%;
+
+top : 582%;
+
+height: 40px;
+
+width: 100%;
+
+
+
+}
+
